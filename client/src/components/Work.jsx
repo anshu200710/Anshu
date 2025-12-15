@@ -26,6 +26,16 @@ const projects = [
   },
   {
     id: 3,
+    title: "Quick GPT",
+    category: "AI Chat Interface",
+    year: "2023",
+    tags: ["OpenAI", "Clone", "Chatbot"],
+    // Placeholder image: AI/Tech
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2664&auto=format&fit=crop", 
+    link: "https://quick-gpt-ivory.vercel.app/login"
+  }
+  {
+    id: 4,
     title: "Job Portal",
     category: "Recruitment Platform",
     year: "2024",
@@ -35,7 +45,7 @@ const projects = [
     link: "https://job-portal-three-kappa.vercel.app/"
   },
   {
-    id: 4,
+    id: 5,
     title: "LMS Platform",
     category: "EdTech System",
     year: "2023",
@@ -44,16 +54,7 @@ const projects = [
     image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=2574&auto=format&fit=crop", 
     link: "https://lms-drab-pi.vercel.app/"
   },
-  {
-    id: 5,
-    title: "Quick GPT",
-    category: "AI Chat Interface",
-    year: "2023",
-    tags: ["OpenAI", "Clone", "Chatbot"],
-    // Placeholder image: AI/Tech
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2664&auto=format&fit=crop", 
-    link: "https://quick-gpt-ivory.vercel.app/login"
-  }
+  
 ];
 
 export default function Work() {
