@@ -33,7 +33,7 @@ const projects = [
     // Placeholder image: AI/Tech
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2664&auto=format&fit=crop", 
     link: "https://quick-gpt-ivory.vercel.app/login"
-  }
+  },
   {
     id: 4,
     title: "Job Portal",
